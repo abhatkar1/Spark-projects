@@ -1,4 +1,4 @@
-This repository has Spark projects in two formats ".dbc" notebook which can be seen by importing the notebook in Spark (Simplest way of doing that is to use community edition of Spark offered by Databricks) and ".ipynb" notebooks which can be seen on github itself. Not sure if ".ipynb" notebooks can be edited in Jupyter since the code was written in Spark. Thus I have also provided the ".dbc" notebooks.
+This repository has Spark projects in two formats - ".dbc" notebook which can be seen by importing the notebook in Spark (Simplest way of doing that is to use community edition of Spark offered by Databricks) and ".ipynb" notebooks which can be seen on github itself. Not sure if ".ipynb" notebooks can be edited in Jupyter since the code was written in Spark. Thus I have also provided the ".dbc" notebooks.
 
 Description of projects: 
 1. Predict_Salary:
